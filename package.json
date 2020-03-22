@@ -1,0 +1,23 @@
+{
+  "name": "angular-jointjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/angular": "^1.6.57"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futomaki621/jointjs.git"
+  },
+  "author": "futomaki621",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futomaki621/jointjs/issues"
+  },
+  "homepage": "https://github.com/futomaki621/jointjs#readme"
+}
