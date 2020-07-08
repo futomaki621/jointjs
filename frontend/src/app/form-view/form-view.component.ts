@@ -18,11 +18,5 @@ export class FormViewComponent implements OnInit {
 
   ngOnInit() {
     // this.profileForm = this.fb.group({})
-    this.options = {
-      lineNumbers :true,
-      theme: 'default',
-      mode: 'markdown',
-    };
   }
-
 }
