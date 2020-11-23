@@ -1,0 +1,9 @@
+<p>codemirror-view works!</p>
+
+<ngx-codemirror #codemirrorEditor [(ngModel)]="content" [options]="options"></ngx-codemirror>
+{{text.value}}<br>
+<div *ngIf="!!this.text.value">
+    <mat-error>
+        {{text.errors}}
+    </mat-error>
+</div>
